@@ -18,7 +18,7 @@ NeuroPuzzles se plantea como una herramienta complementaria dentro de sesiones g
 - Arquitectura recomendada: MVVM (ViewModel + Repository).
 - Consumo de API: Retrofit + Kotlin Coroutines.
 - Persistencia local (borrador): DataStore para preferencias y Room para historial (opcional en esta primera versión).
-- Control de versiones: Git y GitHub (GitHub Classroom).
+- Control de versiones: Git y GitHub (GitHub NeuroPuzzles).
 
 ## 4. Interfaz de usuario e interfaz de administrador
 
@@ -92,7 +92,7 @@ Se consumirá el endpoint de personajes para recuperar un listado paginado y sel
 5) Mezclar y renderizar el tablero
 
 ## 9. Alcance inicial y entregables en GitHub
-En este módulo se entrega el borrador en formato README dentro del repositorio de GitHub Classroom. En el siguiente módulo se ampliará con detalles técnicos de implementación, estructura del proyecto Android y evidencias (capturas o wireframes gráficos si aplica).
+En este módulo se entrega el borrador en formato README dentro del repositorio de GitHub NeuroPuzzles. En el siguiente módulo se ampliará con detalles técnicos de implementación, estructura del proyecto Android y evidencias (capturas o wireframes gráficos si aplica).
 
 ## 10. Referencias consultadas (para este borrador)
 - Documentación oficial Dragon Ball API: https://web.dragonball-api.com/documentation
